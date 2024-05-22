@@ -13,7 +13,7 @@ The code utilizes the K-Means clustering algorithm from scikit-learn to group cu
 -  The code iterates through a range of possible cluster numbers (e.g., 1 to 10) and calculates the Within-Cluster Sum of Squares (WCSS) for each iteration.  
 -  The WCSS typically decreases as the number of clusters increases. The "elbow point" in the WCSS vs. number of clusters plot suggests the optimal number of clusters.  
 - Note: You can include this section if you implemented the elbow method code. If not, remove this section.
-- ![Alt text]((https://github.com/njangiti/Customer-Segmentation-by-Income-and-Spending-Score/blob/main/Img_1.png))
+![Alt text](https://github.com/njangiti/Customer-Segmentation-by-Income-and-Spending-Score/blob/main/Img_1.png)
 
 ###    2.	K-Means Model Creation:
 -	A KMeans model is created with the chosen number of clusters (e.g., 5 in this case).
